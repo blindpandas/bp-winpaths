@@ -1,0 +1,39 @@
+*~
+.\#*
+\#*#
+
+*.py[co]
+__pycache__/
+/*.egg
+*.egg-info/
+*.egg-link
+/.eggs/
+/.pytest_cache/
+
+# /
+/build/
+/dist/
+/*.patch
+/MANIFEST
+/README.html
+/_build/
+
+# Temporary files from editor and tools
+*.swp
+.ropeproject
+.idea
+.spyproject
+.DS_store
+*.pdb
+.cache
+*.prof
+/sphinx-enki-info.txt
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
